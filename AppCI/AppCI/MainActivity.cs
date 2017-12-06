@@ -15,7 +15,7 @@ namespace AppCI
             base.OnCreate(bundle);
             AppCenter.Start("db5620c0-9835-465e-b04f-53db08dd75bf",
                    typeof(Analytics), typeof(Crashes));
-
+            /*testing*/
             // Set our view from the "main" layout resource
             // SetContentView (Resource.Layout.Main);
         }
