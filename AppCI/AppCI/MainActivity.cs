@@ -5,7 +5,7 @@ using AppCI;
 
 namespace TestApp
 {
-	[Activity(Label = "TestApp", MainLauncher = true, Icon = "@mipmap/icon")]
+	[Activity(Label = "TestApp", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate(Bundle savedInstanceState)
