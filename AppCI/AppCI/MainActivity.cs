@@ -17,7 +17,7 @@ namespace AppCI
                    typeof(Analytics), typeof(Crashes));
 
             // Set our view from the "main" layout resource
-            // SetContentView (Resource.Layout.Main);
+            SetContentView (Resource.Layout.Main);
         }
     }
 }
