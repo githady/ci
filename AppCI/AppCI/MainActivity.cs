@@ -6,9 +6,9 @@ using Microsoft.AppCenter;
 using Microsoft.AppCenter.Analytics;
 using Microsoft.AppCenter.Crashes;
 
-namespace TestApp
+namespace DemoApp
 {
-	[Activity(Label = "TestApp", MainLauncher = true, Icon = "@drawable/icon")]
+	[Activity(Label = "DemoApp", MainLauncher = true, Icon = "@drawable/icon")]
 	public class MainActivity : Activity
 	{
 		protected override void OnCreate(Bundle savedInstanceState)

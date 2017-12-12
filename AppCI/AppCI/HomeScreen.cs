@@ -12,7 +12,7 @@ using Android.Views;
 using Android.Widget;
 using AppCI;
 
-namespace TestApp
+namespace DemoApp
 {
 	[Activity(Label = "HomeScreen")]
 	public class HomeScreen : Activity
