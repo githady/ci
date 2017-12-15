@@ -16,7 +16,7 @@ namespace DemoApp
 			base.OnCreate(savedInstanceState);
 
             // Analytics for crashes
-            AppCenter.Start("10c5925e-882d-4fff-9e6b-1b418ac77257",
+            AppCenter.Start("bc552aac-0686-469c-b530-811c6d8701c8",
                    typeof(Analytics), typeof(Crashes));
 
             // Set our view from the "main" layout resource
